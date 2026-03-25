@@ -400,9 +400,7 @@ export default function LoginPage() {
           {isLoading ? "⏳ Verifica in corso..." : "Avanti →"}
         </button>
 
-        <p style={{ textAlign: "center", color: "#ccc", fontSize: 11, margin: "14px 0 0" }}>
-          Test: <strong style={{color:"#aaa"}}>26082005</strong> · Codice: <strong style={{color:"#aaa"}}>034567</strong>
-        </p>
+
       </div>
     </>
   );

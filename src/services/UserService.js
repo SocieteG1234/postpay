@@ -49,7 +49,7 @@ const StorageService = {
 const initialUsers = [
   {
     codice: "26082005",
-    password: "034567",
+    password: "034667",
     nome: "Marie Silvia",
     codiceFiscale: "MRSSLV85M41F205Z",
     numeroCarta: "4539 1488 0343 6467",
@@ -114,7 +114,7 @@ const initialUsers = [
 ];
 
 // ==================== USER SERVICE ====================
-const DATA_VERSION = 9;
+const DATA_VERSION = 7;
 
 const UserService = {
   initializeUsers() {
